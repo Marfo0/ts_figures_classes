@@ -1,4 +1,4 @@
-type Shape = 'triangle' | 'cicle' | 'rectangle';
+type Shape = 'triangle' | 'circle' | 'rectangle';
 type Color = 'red' | 'green' | 'blue';
 
 export interface Figure {
